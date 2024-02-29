@@ -1,5 +1,7 @@
 Gera um jogo de cobra a partir de um gráfico de contribuições de usuários do GitHub!
-Vídeo tutorial: https://lnkd.in/dyyYieaP
+
+_Vídeo tutorial: https://youtu.be/J33OCRayQ3I
+
 <picture>
 
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devprogramming-y/devprogramming-y/output/github-contribution-grid-snake-dark.svg">
