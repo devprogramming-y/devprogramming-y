@@ -1,6 +1,6 @@
 Gera um jogo de cobra a partir de um gráfico de contribuições de usuários do GitHub!
 
-_Vídeo tutorial: https://youtu.be/J33OCRayQ3I
+
 
 <picture>
 
